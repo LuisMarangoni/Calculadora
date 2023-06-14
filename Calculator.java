@@ -40,7 +40,7 @@ public class Calculator {
 	
 	}	
 	static void div(int x, int y) {
-		System.out.println("A divisão dos números inseridos é igual a:" + (x/y));
+		System.out.println("A divisão dos números inseridos é igual a:" + (x / y));
 		
 	}
 }
